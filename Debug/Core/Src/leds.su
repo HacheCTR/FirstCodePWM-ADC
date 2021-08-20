@@ -1,0 +1,2 @@
+leds.c:17:6:vInit_Leds	40	static
+leds.c:47:6:vLedFunction	8	static

@@ -1,0 +1,6 @@
+lcd.c:16:6:vLcd_Init	40	static
+lcd.c:130:6:vLcd_puts	24	static
+lcd.c:137:6:vLcd_putc	16	static
+lcd.c:185:6:vLcd_command	16	static
+lcd.c:237:6:vLcd_gotoxy	24	static
+lcd.c:250:6:vLcd_definechar	24	static

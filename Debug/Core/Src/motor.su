@@ -1,0 +1,2 @@
+motor.c:16:6:vMotor_Init	40	static
+motor.c:55:6:vDirection	16	static

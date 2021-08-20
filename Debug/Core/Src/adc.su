@@ -1,0 +1,2 @@
+adc.c:25:6:vConvertIntToASCII	8	static
+adc.c:48:6:vConvertToASCII	8	static
